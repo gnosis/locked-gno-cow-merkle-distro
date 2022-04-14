@@ -1,5 +1,5 @@
 {
-  "0x0184D440421238834410842C4d69F0e654D66aCd": {
+  "0x0184d440421238834410842c4d69f0e654d66acd": {
     "index": 64,
     "amount": "0x9916df6dce87200000",
     "proof": [
@@ -22,7 +22,7 @@
       "isAirdrop": true
     }
   },
-  "0x018E801b09EB26C56c781e3a1F7a259D79a9F58E": {
+  "0x018e801b09eb26c56c781e3a1f7a259d79a9f58e": {
     "index": 65,
     "amount": "0x013ce98c2a9085980000",
     "proof": [
@@ -45,7 +45,7 @@
       "isAirdrop": true
     }
   },
-  "0x018F8822C912361b67A64ad66a5608fed66830c7": {
+  "0x018f8822c912361b67a64ad66a5608fed66830c7": {
     "index": 66,
     "amount": "0x0105f1787ef77f800000",
     "proof": [
@@ -68,7 +68,7 @@
       "isAirdrop": true
     }
   },
-  "0x018aA445701f52B0524EC71cEbE9106963c2E56f": {
+  "0x018aa445701f52b0524ec71cebe9106963c2e56f": {
     "index": 67,
     "amount": "0x027fc9a6d652f8280000",
     "proof": [
@@ -91,7 +91,7 @@
       "isAirdrop": true
     }
   },
-  "0x01993b008cC53eD85Ad2fb99C7AaDd636460A1e3": {
+  "0x01993b008cc53ed85ad2fb99c7aadd636460a1e3": {
     "index": 68,
     "amount": "0x020bf0d1b4a2a6640000",
     "proof": [
@@ -114,7 +114,7 @@
       "isAirdrop": true
     }
   },
-  "0x019c1EEB75F4ee79e4B4e57Ad12289C421C72cA2": {
+  "0x019c1eeb75f4ee79e4b4e57ad12289c421c72ca2": {
     "index": 69,
     "amount": "0x6527f3b9821ee80000",
     "proof": [
@@ -137,7 +137,7 @@
       "isAirdrop": true
     }
   },
-  "0x01A0404788Cc5f0e41974961bBEcA2FFcc8B4608": {
+  "0x01a0404788cc5f0e41974961bbeca2ffcc8b4608": {
     "index": 70,
     "amount": "0x039b85fe3b6752b00000",
     "proof": [
@@ -158,7 +158,7 @@
       "isAirdrop": true
     }
   },
-  "0x01A72692ffE0A80029DE7982227A186F2787046f": {
+  "0x01a72692ffe0a80029de7982227a186f2787046f": {
     "index": 71,
     "amount": "0xbd76de4eb2463c0000",
     "proof": [
@@ -181,7 +181,7 @@
       "isAirdrop": true
     }
   },
-  "0x01A868796Ccbef444d201E5A6BC2883036bd2050": {
+  "0x01a868796ccbef444d201e5a6bc2883036bd2050": {
     "index": 72,
     "amount": "0x0474b0693ab4b9880000",
     "proof": [
@@ -204,7 +204,7 @@
       "isAirdrop": true
     }
   },
-  "0x01B943d079c9b2D32917e7d06B03Ae589c64AB42": {
+  "0x01b943d079c9b2d32917e7d06b03ae589c64ab42": {
     "index": 73,
     "amount": "0x2e6762e8b7b6600000",
     "proof": [
@@ -227,7 +227,7 @@
       "isAirdrop": true
     }
   },
-  "0x01C0A1a06D42cbA74A3b41d02b5769DC3342C0ca": {
+  "0x01c0a1a06d42cba74a3b41d02b5769dc3342c0ca": {
     "index": 74,
     "amount": "0x061e9e309a892dac0000",
     "proof": [
@@ -250,7 +250,7 @@
       "isAirdrop": true
     }
   },
-  "0x01C83C00627a598918C24e84E0CF386d6BfC094e": {
+  "0x01c83c00627a598918c24e84e0cf386d6bfc094e": {
     "index": 75,
     "amount": "0x02a51591d924d4e80000",
     "proof": [
@@ -273,7 +273,7 @@
       "isAirdrop": true
     }
   },
-  "0x01D5201acD95F4963D84bbAE27AaA723cD3f5a4f": {
+  "0x01d5201acd95f4963d84bbae27aaa723cd3f5a4f": {
     "index": 76,
     "amount": "0xdaa11e44400e640000",
     "proof": [
@@ -296,7 +296,7 @@
       "isAirdrop": true
     }
   },
-  "0x01D55705cDCe1264bC45f126c946f7bf09C592ad": {
+  "0x01d55705cdce1264bc45f126c946f7bf09c592ad": {
     "index": 77,
     "amount": "0x07c2e8adc161a1300000",
     "proof": [
@@ -319,7 +319,7 @@
       "isAirdrop": true
     }
   },
-  "0x01DB28824D44F434Fc72d92b4EE454646E5A82fc": {
+  "0x01db28824d44f434fc72d92b4ee454646e5a82fc": {
     "index": 78,
     "amount": "0x04455d1a300ee5840000",
     "proof": [
@@ -340,7 +340,7 @@
       "isAirdrop": true
     }
   },
-  "0x01bE7C603f60ae4b69BeC96816DBAC548cd784E6": {
+  "0x01be7c603f60ae4b69bec96816dbac548cd784e6": {
     "index": 79,
     "amount": "0x11e3ab8395c6e80000",
     "proof": [
@@ -361,7 +361,7 @@
       "isAirdrop": true
     }
   },
-  "0x01bf5cf5a0D5eDc1920e2A3CDCB1CD4b758A27bc": {
+  "0x01bf5cf5a0d5edc1920e2a3cdcb1cd4b758a27bc": {
     "index": 80,
     "amount": "0x7c3fe3c076ab500000",
     "proof": [
@@ -384,7 +384,7 @@
       "isAirdrop": true
     }
   },
-  "0x01c937411687A40a5d1C6A62cE9B0214dAf41591": {
+  "0x01c937411687a40a5d1c6a62ce9b0214daf41591": {
     "index": 81,
     "amount": "0x037d2a6e926927f00000",
     "proof": [
@@ -407,7 +407,7 @@
       "isAirdrop": true
     }
   },
-  "0x01d52C38FbeF5ab698C8F0da8A8152f1f16e31b5": {
+  "0x01d52c38fbef5ab698c8f0da8a8152f1f16e31b5": {
     "index": 82,
     "amount": "0x01ce3204d350e4780000",
     "proof": [
@@ -430,7 +430,7 @@
       "isAirdrop": true
     }
   },
-  "0x01eA1e6484345c9C40E83ea7dF74cBcC38e7b6f1": {
+  "0x01ea1e6484345c9c40e83ea7df74cbcc38e7b6f1": {
     "index": 83,
     "amount": "0x0236ede7a7242b280000",
     "proof": [
@@ -453,7 +453,7 @@
       "isAirdrop": true
     }
   },
-  "0x01fA251f26380EEe436830A9D70AE45e5aE2d05E": {
+  "0x01fa251f26380eee436830a9d70ae45e5ae2d05e": {
     "index": 84,
     "amount": "0x6abd5d3bca78240000",
     "proof": [
@@ -474,7 +474,7 @@
       "isAirdrop": true
     }
   },
-  "0x01fD20301E0b45CA06410A33FB982899925C9CF7": {
+  "0x01fd20301e0b45ca06410a33fb982899925c9cf7": {
     "index": 85,
     "amount": "0x640484bcc563b40000",
     "proof": [
@@ -497,7 +497,7 @@
       "isAirdrop": true
     }
   },
-  "0x01fEB84A281358B1A986A762c61AD7055548b532": {
+  "0x01feb84a281358b1a986a762c61ad7055548b532": {
     "index": 86,
     "amount": "0x034f32115f4eacb00000",
     "proof": [
@@ -520,7 +520,7 @@
       "isAirdrop": true
     }
   },
-  "0x0210f3485A0eC3D5845AEBc14Aaf7E6a4936867E": {
+  "0x0210f3485a0ec3d5845aebc14aaf7e6a4936867e": {
     "index": 87,
     "amount": "0x020eec18f53b9ce00000",
     "proof": [
@@ -543,7 +543,7 @@
       "isAirdrop": true
     }
   },
-  "0x021aEd1f69497F8Ca03578d164a84B8C01B0f8A9": {
+  "0x021aed1f69497f8ca03578d164a84b8c01b0f8a9": {
     "index": 88,
     "amount": "0x06c3bdee7822dd840000",
     "proof": [
@@ -566,7 +566,7 @@
       "isAirdrop": true
     }
   },
-  "0x0222f89eaac91670CDe30f31b386E5822D80e936": {
+  "0x0222f89eaac91670cde30f31b386e5822d80e936": {
     "index": 89,
     "amount": "0x02869e40c2bf5b600000",
     "proof": [
@@ -587,7 +587,7 @@
       "isAirdrop": true
     }
   },
-  "0x02234B7393e770fFe855500219eA3D3b4BD6e810": {
+  "0x02234b7393e770ffe855500219ea3d3b4bd6e810": {
     "index": 90,
     "amount": "0x01d0337f3b4815ec0000",
     "proof": [
@@ -610,7 +610,7 @@
       "isAirdrop": true
     }
   },
-  "0x022C73631ff2D7c16711b95f55dE73170390e587": {
+  "0x022c73631ff2d7c16711b95f55de73170390e587": {
     "index": 91,
     "amount": "0x048faf8ca4305a100000",
     "proof": [
@@ -633,7 +633,7 @@
       "isAirdrop": true
     }
   },
-  "0x0234616bD803559DdF68c1Cda36c89B413DD25EB": {
+  "0x0234616bd803559ddf68c1cda36c89b413dd25eb": {
     "index": 92,
     "amount": "0x6d8f02584878740000",
     "proof": [
@@ -656,7 +656,7 @@
       "isAirdrop": true
     }
   },
-  "0x023EdA2CD15152808E6107c2216B7B815F0c35e1": {
+  "0x023eda2cd15152808e6107c2216b7b815f0c35e1": {
     "index": 93,
     "amount": "0x02adf986e43c10f80000",
     "proof": [
@@ -679,7 +679,7 @@
       "isAirdrop": true
     }
   },
-  "0x0249AaD08d3C881BCd62493672359beC1e5F68AF": {
+  "0x0249aad08d3c881bcd62493672359bec1e5f68af": {
     "index": 94,
     "amount": "0xfe30f2709cfea40000",
     "proof": [
@@ -702,7 +702,7 @@
       "isAirdrop": true
     }
   },
-  "0x024E2Ef8C65EFf8D37F4B04bcF12a9d4d2113b55": {
+  "0x024e2ef8c65eff8d37f4b04bcf12a9d4d2113b55": {
     "index": 95,
     "amount": "0x591f1549b6f6300000",
     "proof": [
@@ -725,7 +725,7 @@
       "isAirdrop": true
     }
   },
-  "0x024bea7d59F7f4453EBf54E0841a0D890eFCae36": {
+  "0x024bea7d59f7f4453ebf54e0841a0d890efcae36": {
     "index": 96,
     "amount": "0x45104d3a0f07a80000",
     "proof": [
@@ -748,7 +748,7 @@
       "isAirdrop": true
     }
   },
-  "0x0259993ea2a97A9C53b6fBEF2F1551cdB8C565B3": {
+  "0x0259993ea2a97a9c53b6fbef2f1551cdb8c565b3": {
     "index": 97,
     "amount": "0x081e32df972abf000000",
     "proof": [
@@ -771,7 +771,7 @@
       "isAirdrop": true
     }
   },
-  "0x025B3D6C23891EA6a07fb44c323c3D2cE76AFb1B": {
+  "0x025b3d6c23891ea6a07fb44c323c3d2ce76afb1b": {
     "index": 98,
     "amount": "0x016a2d80168b80c40000",
     "proof": [
@@ -792,7 +792,7 @@
       "isAirdrop": true
     }
   },
-  "0x0262134E7622F637aa9C5e687ED482d325210eb5": {
+  "0x0262134e7622f637aa9c5e687ed482d325210eb5": {
     "index": 99,
     "amount": "0x042c7b329bf1c5380000",
     "proof": [
@@ -813,7 +813,7 @@
       "isAirdrop": true
     }
   },
-  "0x0278B11fdBFec74cfB071F756b047632e1A99953": {
+  "0x0278b11fdbfec74cfb071f756b047632e1a99953": {
     "index": 100,
     "amount": "0x019af7826623fc540000",
     "proof": [
@@ -836,7 +836,7 @@
       "isAirdrop": true
     }
   },
-  "0x027a818dcf0a779eeA64A56cd0F041c2e8caAe7A": {
+  "0x027a818dcf0a779eea64a56cd0f041c2e8caae7a": {
     "index": 101,
     "amount": "0xb0b99697c79d700000",
     "proof": [
@@ -857,7 +857,7 @@
       "isAirdrop": true
     }
   },
-  "0x027eEDE5792Df8Aa2015a82183ac61118C826415": {
+  "0x027eede5792df8aa2015a82183ac61118c826415": {
     "index": 102,
     "amount": "0x011d786e3b8947080000",
     "proof": [
@@ -880,7 +880,7 @@
       "isAirdrop": true
     }
   },
-  "0x0280a0D231bc48B6A5EcEc3E1dc653Aae6abFf29": {
+  "0x0280a0d231bc48b6a5ecec3e1dc653aae6abff29": {
     "index": 103,
     "amount": "0x015bb421892beb780000",
     "proof": [
@@ -903,7 +903,7 @@
       "isAirdrop": true
     }
   },
-  "0x0282a1300EBfD6CC677fc54Ff7103824bb1Ae6a4": {
+  "0x0282a1300ebfd6cc677fc54ff7103824bb1ae6a4": {
     "index": 104,
     "amount": "0x0241fcf93e4d8ed80000",
     "proof": [
@@ -926,7 +926,7 @@
       "isAirdrop": true
     }
   },
-  "0x0285c1BbB842FF0fCb9b73033DC275Cf704B1d15": {
+  "0x0285c1bbb842ff0fcb9b73033dc275cf704b1d15": {
     "index": 105,
     "amount": "0x01f2bba5d84f99c00000",
     "proof": [
@@ -949,7 +949,7 @@
       "isAirdrop": true
     }
   },
-  "0x02889927b357765b09FE68E6D55F687E9ceBc84d": {
+  "0x02889927b357765b09fe68e6d55f687e9cebc84d": {
     "index": 106,
     "amount": "0x01cfd25a3c5e82300000",
     "proof": [
@@ -970,7 +970,7 @@
       "isAirdrop": true
     }
   },
-  "0x028931Aa37a1e7CB6aD78C39a8ACBd6a8A104E23": {
+  "0x028931aa37a1e7cb6ad78c39a8acbd6a8a104e23": {
     "index": 107,
     "amount": "0x97e58fba5e24880000",
     "proof": [
@@ -991,7 +991,7 @@
       "isAirdrop": true
     }
   },
-  "0x0291C41f3531b98cf5183B0FBbE216ba36818aB0": {
+  "0x0291c41f3531b98cf5183b0fbbe216ba36818ab0": {
     "index": 108,
     "amount": "0x03e82d2f5fb5e5080000",
     "proof": [
@@ -1012,7 +1012,7 @@
       "isAirdrop": true
     }
   },
-  "0x029401b48f137BA9Db3FAaf37aC17acFbA1D4Bb3": {
+  "0x029401b48f137ba9db3faaf37ac17acfba1d4bb3": {
     "index": 109,
     "amount": "0x03c33488a519f4a00000",
     "proof": [
@@ -1035,7 +1035,7 @@
       "isAirdrop": true
     }
   },
-  "0x029429Fc94dBE2c0e0397996A1FEf349D9932B26": {
+  "0x029429fc94dbe2c0e0397996a1fef349d9932b26": {
     "index": 110,
     "amount": "0x01475215314e10980000",
     "proof": [
@@ -1056,7 +1056,7 @@
       "isAirdrop": true
     }
   },
-  "0x0295898fB99F785Cb9f185C12Bd032Ba5A7bF679": {
+  "0x0295898fb99f785cb9f185c12bd032ba5a7bf679": {
     "index": 111,
     "amount": "0xbe70ab27540b440000",
     "proof": [
@@ -1079,7 +1079,7 @@
       "isAirdrop": true
     }
   },
-  "0x0296be8a11F76E66068e933A32F6f7F4b5A713F0": {
+  "0x0296be8a11f76e66068e933a32f6f7f4b5a713f0": {
     "index": 112,
     "amount": "0x0569ef85e986d4b80000",
     "proof": [
@@ -1100,7 +1100,7 @@
       "isAirdrop": true
     }
   },
-  "0x029dB3A307d2aF666d2466A704c392a5167c76cF": {
+  "0x029db3a307d2af666d2466a704c392a5167c76cf": {
     "index": 113,
     "amount": "0x0242a381ceb967880000",
     "proof": [
@@ -1123,7 +1123,7 @@
       "isAirdrop": true
     }
   },
-  "0x02B5BD47EC9FC4597caaA21AF5112a556626663F": {
+  "0x02b5bd47ec9fc4597caaa21af5112a556626663f": {
     "index": 114,
     "amount": "0x03df8e9de620edec0000",
     "proof": [
@@ -1146,7 +1146,7 @@
       "isAirdrop": true
     }
   },
-  "0x02CCc1f45D7169d6fb74B084d3577AfDDa2afA54": {
+  "0x02ccc1f45d7169d6fb74b084d3577afdda2afa54": {
     "index": 115,
     "amount": "0x02148f632e379d800000",
     "proof": [
@@ -1169,7 +1169,7 @@
       "isAirdrop": true
     }
   },
-  "0x02D82b8B5aD2Ed0D3f98bf361e399A127B3d0dBA": {
+  "0x02d82b8b5ad2ed0d3f98bf361e399a127b3d0dba": {
     "index": 116,
     "amount": "0x01e721cd1e21ac280000",
     "proof": [
@@ -1192,7 +1192,7 @@
       "isAirdrop": true
     }
   },
-  "0x02D9022C6A899DAe120e9EF87C1F2F9DF80Aaaeb": {
+  "0x02d9022c6a899dae120e9ef87c1f2f9df80aaaeb": {
     "index": 117,
     "amount": "0x05063e4574f75d5c0000",
     "proof": [
@@ -1213,7 +1213,7 @@
       "isAirdrop": true
     }
   },
-  "0x02F2c96cda2Ec46B8A5769e367bAea76fEc706A2": {
+  "0x02f2c96cda2ec46b8a5769e367baea76fec706a2": {
     "index": 118,
     "amount": "0x03ada12c99cbb7280000",
     "proof": [
@@ -1236,7 +1236,7 @@
       "isAirdrop": true
     }
   },
-  "0x02b51f9Be7A21415F69EfA8DcDf3b899Cd8d7093": {
+  "0x02b51f9be7a21415f69efa8dcdf3b899cd8d7093": {
     "index": 119,
     "amount": "0x6a4076cf7995a00000",
     "proof": [
@@ -1259,7 +1259,7 @@
       "isAirdrop": true
     }
   },
-  "0x02c6c6d2b9c49AAB86805c8391184e2564F199dc": {
+  "0x02c6c6d2b9c49aab86805c8391184e2564f199dc": {
     "index": 120,
     "amount": "0x01afd6752a52b9b80000",
     "proof": [
@@ -1282,7 +1282,7 @@
       "isAirdrop": true
     }
   },
-  "0x02cE65F4C4Ae2a8fE1a8aaaeadbEa10ea6221489": {
+  "0x02ce65f4c4ae2a8fe1a8aaaeadbea10ea6221489": {
     "index": 121,
     "amount": "0x022ae509375902700000",
     "proof": [
@@ -1305,7 +1305,7 @@
       "isAirdrop": true
     }
   },
-  "0x02ce72eEf4664B2922df9f7fE1B4E2FC41F36B55": {
+  "0x02ce72eef4664b2922df9f7fe1b4e2fc41f36b55": {
     "index": 122,
     "amount": "0x020ca53afbc226780000",
     "proof": [
@@ -1328,7 +1328,7 @@
       "isAirdrop": true
     }
   },
-  "0x02dAd758E0F8599516f6a358ca4859c9367247ED": {
+  "0x02dad758e0f8599516f6a358ca4859c9367247ed": {
     "index": 123,
     "amount": "0xd9462c6cb4b5a00000",
     "proof": [
@@ -1351,7 +1351,7 @@
       "isAirdrop": true
     }
   },
-  "0x02eFa3D3A9dB4a2b707aa9eC0dA62ce51394b920": {
+  "0x02efa3d3a9db4a2b707aa9ec0da62ce51394b920": {
     "index": 124,
     "amount": "0x0332ae59fa2cbd380000",
     "proof": [
@@ -1374,7 +1374,7 @@
       "isAirdrop": true
     }
   },
-  "0x02f5018aecc8d1e00dCB02Da73687B2ddb90bd6D": {
+  "0x02f5018aecc8d1e00dcb02da73687b2ddb90bd6d": {
     "index": 125,
     "amount": "0x0168b6ccd198d9380000",
     "proof": [
@@ -1397,7 +1397,7 @@
       "isAirdrop": true
     }
   },
-  "0x02fb0706cb14B12C52AE22F31C01d3c1d026AD69": {
+  "0x02fb0706cb14b12c52ae22f31c01d3c1d026ad69": {
     "index": 126,
     "amount": "0x0375938aa8299d400000",
     "proof": [
@@ -1420,7 +1420,7 @@
       "isAirdrop": true
     }
   },
-  "0x0303c24122a9f19021fe0Ac1984b34d02F54c680": {
+  "0x0303c24122a9f19021fe0ac1984b34d02f54c680": {
     "index": 127,
     "amount": "0x8508175e2698980000",
     "proof": [

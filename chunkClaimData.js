@@ -6,7 +6,7 @@ const chunk = (claims, size) => {
   return addresses.reduce((chunks, address, index) => {
     const chunkIndex = Math.floor(index / size);
     if (!chunks[chunkIndex]) chunks[chunkIndex] = {};
-    chunks[chunkIndex][address] = claims[address];
+    chunks[chunkIndex][address.toLowerCase()] = claims[address];
     return chunks;
   }, []);
 };
